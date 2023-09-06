@@ -1,0 +1,126 @@
+Dynamics 365 es un conjunto de aplicaciones empresariales inteligentes muy útiles para ayudar a gestionar un negocio y mejorar sus resultados a través de conocimientos predictivos generados mediante inteligencia artificial.
+Para conseguir estos objetivos, dispone de diferentes paquetes pensados especialmente para cada área profesional en que trabaje la empresa. En DQS/ estamos especializados en diferentes soluciones.
+
+Dynamics 365 F&O (ERP): Microsoft Dynamics es nuestro punto fuerte. Una especialización que comenzó implantando proyectos con Dynamics AX (AXAPTA) y que ha evolucionado hasta los nuevos proyectos basados en Dynamics 365 Finance y Dynamics 365 Supply Chain Management.
+A la hora de gestionar una empresa, es de vital importancia tomar la decisión adecuada en el momento preciso. Las variables a tener en cuenta son muy elevadas y en algunas ocasiones incluso desconocidas. La función de un software ERP, entre muchas otras, es la de ayudar a gestionar todas esas variables y ayudar a tomar las decisiones acordes para cada situación.
+
+    Dynamics 365 Finance: Las ventajas de usar Dynamics 365 finance son: Unas finanzas modernas, Operaciones inteligentes, Incremento de la productividad, Incremento de la rentabilidad y entregas a tiempo y ejecución rápida.
+    Dynamics 365 es un producto pensado para los directores financieros de las compañías. Se concentra en ofrecer mejoras de estrategia financiera. Para ello, simplifica la gestión financiera generando informes detallados y análisis en tiempo real. Dynamics 365 for Finance te permite reimaginar tu ERP para afrontar el futuro.
+    Desde operaciones más inteligentes y conectadas hasta experiencias excepcionales con los clientes y conocimientos financieros estratégicos y basados en datos, aprovecha la escalabilidad global y las capacidades de inteligencia digital en la nube y haz crecer tu negocio con Dynamics 365 for Finance.
+    Funcionalidades de Dynamics 365 for Finance: Instala Dynamics 365 for Finance en tu organización y mejora de manera inmediata la gestión económica de tu empresa. Una solución, sencilla, adaptable y con una gran capacidad de trabajo que permite mejorar los niveles de beneficios de cualquier negocio.
+    Estas son algunas de las tareas en las que Dynamics 365 Finance puede ayudarte: Gestión del presupuesto, Gestión del efectivo y de los bancos, Gestión de gastos, Gestión de contabilidad de proyectos, Aplicación móvil, Proporción de informes financieros, Información sobre activos fijos, clientes y proveedores, Administración de la empresa, incluyendo el departamento de Recursos Humanos
+    ¿Por qué mi empresa tendria que implementar Dynamics 365 for Finance? Entre otras, se podrían destacar las siguientes características más positivas de este software:
+        1. Analisi del rendimiento: Ayuda a analizar el rendimiento económico de cualquier empresa. Y, Simplifica la gestión financiera global a través de la inteligencia financiera.
+        2. Uso de Inteligencia Artifical: Crea previsiones de enorme utilidad que ayudan a evitar problemas financieros. La combinación de datos, automatización e inteligencia artificial fomentarán el crecimiento empresarial.
+        3. Personalización de documentos: Unificación y automatización de los procesos financieros: La productividad aumentará, se personalizarán los documentos y se automatizará la facturación y la gestión de todos los gastos e ingresos.
+        4. Reduce los gastos de la empresa: Reduce los gastos operativos, la complejidad financiera y los riesgos globales: Garantiza una gestión más eficiente de la empresa, mayor adaptación y cumplimiento normativo.
+        5. Ahorro de tiempo de trabajo: Funciona como una auditoría constante, ahorrando tiempo de trabajo a todos los miembros de la organización.
+        6. Almacenamiento en la nube: Reduce costes en dispositivos de almacenamiento gracias a la nube.
+
+    Dynamics 365 Supply Chain Management: Las ventajas de usar Dynamics 365 supply chain management son unas finanzas modernas, Operaciones inteligentes, Incremento de la productividad, Incremento de la rentabilidad y entregas a tiempo y ejecución rápida.
+    Dynamics 365 Supply Chain Management esta orientado a los responsables de operaciones y permite gestionar y simplificar los recursos materiales y personales, adaptándolos a cualquier carga de trabajo, y simplifica la gestión independientemente del tipo de fabricación, sea esta discreta, por procesos, por proyectos, lean o mixta.
+    Todo ello desemboca en un incremento de la eficiencia al mejorar la capacidad de detectar posibles incidencias y ofrecer un margen de actuación más rápido para resolverlas. El uso de Dynamics 365 Supply Chain Management aumenta la calidad de la logística y la consecuente satisfacción de los clientes.
+    Funcionalidades de Dynamics 365 Supply Chain Management: Optimización de la planificación, Gestión del inventario, Análisis con información a tiempo real del estado de los almacenes, Identificación de los posibles problemas con la maquinaria, Administración de activos, Planificación de producción a tiempo real, Aplicación móvil.
+    ¿Por qué mi empresa tendria que implementar Dynamics 365 Supply Chain Management?
+        1. Optimización de la planificación: Acelera la innovación y responde rápidamente a problemas de calidad, cambios en las especificaciones de los clientes y piezas obsoletas.
+        2. Uso de Inteligencia Artifical: Predice la demanda de los clientes mediante IA y entrega los productos a tiempo planificando el suministro y la producción casi en tiempo real.
+        3. Personalización de documentos: Mejora la entrega con análisis predictivos para optimizar y automatizar el inventario, el almacenamiento, el procesamiento de pedidos, el suministro de material y la logística de la cadena de suministro.
+        4. Control de transacciones: Crea procesos de fabricación y fábricas ágiles con tecnologías predictivas, IoT y realidad mixta, reduciendo los costes.
+        5. Mejora de la eficiencia laboral: Reduce el tiempo de inactividad del equipamiento, mejora la eficacia global del equipo (OEE) y maximiza la longevidad realizando un mantenimiento proactivo.
+
+    Dynamics 365 Commerce: Las ventajas de usar Dynamics 365 Commerce son: Experiencias ominanal, Mejora de la experiencia de usuario, Aumento de la productividad, Agilización de la operativa diaria.
+    Dynamics 365 Commerce ofrece una solución omnicanal completa que unifica las experiencias administrativas, en la tienda, del centro de llamadas y de comercio electrónico para personalizar la participación del cliente, aumentar la productividad de los empleados y optimizar las operaciones de la tienda; impulsando, así, el crecimiento y la capacidad de innovación de los negocios.
+    Funcionalidades de Dynamics 365 for Commerce: Solución de datos unificados mediante integración con CDS y ADLS, Procesos comerciales interconectados con el ecosistema de aplicaciones D365 y Inteligencia artificial para crear escaparates digitales efectivos. 
+    ¿Por qué mi empresa tendria que implementar Dynamics 365 for Commerce?
+        1. Produce contenido digital inteligente y atractivo.
+        2. Automatiza escenarios de autoservicio con Bots y agentes virtuales.
+        3. Unifica los datos y optimiza las operaciones comerciales.
+        4. Personaliza la experiencia del cliente en una plataforma inteligente, segura y escalable.
+
+    Dynamics 365 for Human Resources: Las ventajas de usar Dynamics 365 Human Resources son: Autoservicio para empleados, Análisis interactivos, Fomenta la igualdad demográfica, Empodera a los profesionales de Recursos Humanos.
+    Con el objetivo de crear organizaciones más seguras, inteligentes y conectadas, Dynamics 365 Human Resources impulsa la excelencia en las operaciones de recursos humanos para reducir costos y crear experiencias de empleados más conectadas.
+    Las funcionalidades de Dynamics 365 Human Resources ayudan a impulsar una cultura de alto rendimiento a lo largo de toda la organización, manteniendo a los empleados comprometidos y empoderando a los empleados de recursos humanos.
+    ¿Por qué mi empresa tendria que implementar Dynamics 365 for Human Resources/ Dynamics 365 para recursos humanos?
+        1. Dynamics 365 mejora el rendimiento de tus empleados para que prosperen en su carrera profesional.
+        2. Marca objetivos eficientes y establece objetivos para todos los empleados y la organización en su conjunto.
+        3. Dynamics permite diseñar y compartir plantillas de revisión de desempeño.
+        4. Identifica habilidades clave a desarrollar y crea cursos específicamente diseñados para ello.
+
+Dynamics 365 Customer Engagement(CRM): Dynamics 365 Customer Engagement es la respuesta de Microsoft al entorno tan exigente en el que vivimos respecto a la relación con los clientes. Dicha relación se encuentra en el epicentro de toda estrategia comercial, lo que significa que hay que cuidarla y monitorizarla con más hincapié que años atrás. En DQSconsulting contamos con un equipo de profesionales especializados en la implantación de soluciones de Customer Engagement.
+    Dynamics 365 for Field Service: Con el avance de la analítica avanzada, el aprendizaje automático y la realidad aumentada, las organizaciones se están moviendo hacia un modelo de servicio de campo conectado. Dynamics 365 for Field Service transforma por completo la forma de trabajar en equipo.
+    Se incorpora mayor  movilidad, programación de trabajos y gestión avanzada de los recursos para que las empresas sean capaces de cumplir con las expectativas de todos sus clientes, incluso con los más exigentes.
+    ¿Por qué mi empresa tendria que implementar Dynamics 365 for Field Service?
+        1. Gestiona eficazmente el servicio técnico
+        2. Ayuda a las empresas a mejorar la satisfacción del cliente, gracias a la inteligencia integrada.
+        3. Reduce el coste del servicio de atención al cliente a través de la automatización.
+        4. Mejora la rentabilidad.
+        5. Optimiza los recursos.
+    Las funcionalidades de Dynamics 365 for Field Service son: Automatización de la asignación de recursos, Capacitación de los operadores de servicio a través de paneles interactivos, Sincronización de los inventarios para agilizar la gestión de los mismos, Contratos de servicio para anticipa las incidencias, las necesidades del cliente o del futuro desarrollo de un proyecto, Servicio de campo integrado y en remoto lo que significa que es posible realizar reparaciones automáticamente antes de enviar un técnico y las funcionalidades predictivas que permiten responder ante cualquier situación e instaurar un modelo de servicio proactivo.
+
+    Dynamics 365 for Customer Service: Dynamics 365 Customer Service proporciona a tus equipos datos optimizados y una tecnología unificada para que el servicio de atención al cliente no suponga un esfuerzo de gestión. Solo un 7,2% de las organizaciones tienen una estrategia de omnicanalidad completa. 
+    Dynamics 365 Customer Service ofrece a los clientes el servicio personalizado que esperan a través de diferentes canales con experiencias y conocimientos generados mediante IA para resolver de forma proactiva los problemas y garantizar la tranquilidad.
+    ¿Por qué mi empresa tendria que implementar Dynamics 365 for Customer Service?
+        1. Dynamics 365 for customer service permite realizar encuestas a los clientes y actuar segun los resultados.
+        2. Dynamics 365 for customer service permite encontrar artículos con mayor rapidez a través de las búsquedas por relevancia.
+        3. Dynamics 365 for customer service permite obtener una perspectiva integral del recorrido de cada cliente mediante la inteligencia artificial.
+        4. Dynamics 365 for customner service augmenta la productividad mediante bots inteligentes.
+        5. Dynamics 365 for customer service administra todos los casos en una única plataforma.
+        6. Dynamics 365 for customer service facilita el contacto entre los clientes y sus agentes.
+        7. Dynamics 365 for customer service remite los casos por tema o por canal al agente más adecuado y minimiza errores
+    ¿Qué aplicaciones incluye Dynamics 365 Customer Service?
+        1. Customer Service: Solución de negocio que permite trazar todo el flujo de atención con un cliente, desde la identificación, tipificación, escalado y atención, hasta los niveles de servicio. Ofrece distintos canales para comunicarse con los clientes.
+        2. Customer Service Insights: Herramienta que aplica la inteligencia artificial a la atención al cliente. Permite medir el rendimiento de los diferentes canales e identifica las áreas de crecimiento.
+        3. Customer Insights: Usa una CDP flexible e intuitiva para conocer información sobre los clientes y así crear experiencias personalizadas. Permite unificar datos de clientes de diferentes procedencias para obtener una vista única de todos ellos en tiempo real.
+        4. Virtual Agent for Customer Service: Con esta aplicación los operadores del servicio de atención al cliente podrán identificar y automatizar fácilmente problemas de soporte técnico comunes mediante chatbots inteligentes.
+        5. Forms Pro: Complementa la funcionalidad de atención al cliente con formularios específicos mejorando la calidad prestada.
+
+    Dynamics 365 for sales: Microsoft Dynamics 365 Sales ayuda a las organizaciones a modernizar la productividad de las ventas frente a la creciente complejidad en el entorno de ventas actual
+    Funcionalidades de Dynamics 365 for Sales: Listas de trabajo inteligentes para acelerar las ventas, Listas consolidadas de clientes, priorizados mediante Inteligencia Artificial, Personalizaciones de correos electrónicos, Indicadores clave e información de clientes actualizada en tiempo real, Aplicación móvil y Transformación de datos en información relevante
+
+    Dynamics 365 for Project Operations: Dynamics 365 for Project Operations es una aplicación empresarial dirigida a organizaciones de servicios con proyectos y ofertas de servicios amplias que conecta a los equipos de ventas, recursos, administración de proyectos y finanzas dentro de una sola aplicación para ganar más negocios, acelerar la entrega de proyectos y maximizar la rentabilidad.
+    Dynamics 365 for Project Operations tiene las siguientes funcionalidades: Planificación de proyectos, Administración de recursos y deal management
+    ¿Por qué mi empresa tendria que implementar Dynamics 365 for Project Operations?
+        1. Mejora el workflow, lo que permite conectar a todos los equipos a lo largo del ciclo de vida del proyecto.
+        2. Información rápida y al momento, Accede a análisis e información en tiempo real.
+        3. Mayor visibilidad de los KPI's de la organización.
+        4. Augmenta los beneficios al maximizar la rentabilidad del proyecto.
+        5. Fomenta las mejores prácticas y garantiza el cumplimiento de procesos.
+    
+    Dynamics 365 for Marketing: El uso de Dynamics 365 for Marketing permite a las organizaciones mejorar la experiencia con los clientes a lo largo de todos los puntos de contacto e interactuar con ellos en los diferentes momentos de necesidad, forjando relaciones más sólidas y profundas con los mismos.
+    Funcionalidades Dynamics 365 for Marketing: Diseñador de correo electrónico, Puntuación de clientes potenciales y Segmentación inteligente.
+    ¿Por que mi empresa tendria que implementar Dynamics 365 for Marketing?
+        1. Permite crear correos electronicos atractivos basados en plantillas profesionales personalizables.
+        2. Diseña y personaliza campañas de marketing multicanal, dirigidas a un segmento específico.
+        3. Consigue nuevos clientes y augmenta las ventas priorizando a tus clientes potenciales.
+        4. Augmenta la audiencia web e incrementa el número de leads con landing pages atractivas y Optimizadas.
+        5. Dirige, organiza, promueve y gestiona eventos.
+    
+Dynamics 365 Business Central: Dynamics 365 Business Central ayuda a migrar a la nube en menos tiempo y a conocer cómo es la empresa y cuáles son las claves para mejorar la productividad.
+Aúna los datos de contabilidad, ventas, compras, inventarios, transacciones de los clientes y stock y los muestra de una manera sencilla y comprensible.
+Además, contribuye a leer los datos financieros en segundos, mostrándolos de una manera sencilla y comprensible. Y, aplica Business Intelligence para no mostrar únicamente datos, también la información más relevante para el negocio.
+El módulo va más allá y facilita la interacción con el cliente, el seguimiento de sus proyectos o sus pedidos y el cumplimiento de la normativa europea de protección de datos, requisito imprescindible para los negocios actuales.
+La experiencia queda completa con la posibilidad de acceder a estos datos independientemente de donde se esté y mediante interfaces cómodas e intuitivas, sea cual sea el dispositivo desde donde sean consultados.
+¿Por qué mi empresa tendria que usar Dynamics 365 Business Central?
+    1. Dynamics 365 Business Central es flexible y escalable
+    2. Dynamics 365 Business Central permite tener los procesos y los datos unificados
+    3. Dynamics 365 te da una visión completa
+    4. Dynamics 365 tiene un despliegue rápido y beneficios inmediatos.
+Dynamics 365 Business Central/ business central tiene las siguientes funcionalidades:
+    1. Permite una mejor gestión financiera. Cuentas a cobrar y/o a pagar, conciliación bancaria, gestión de activos fijos, cierre de fin de mes y/o año…
+    2. Gestión de ventas y servicios. Generación de presupuestos, gestión de contactos, facturación de ventas, procesamiento de pagos…
+    3. Gestión de proyectos: Planificación y gestión de los recursos, presupuestos y estimaciones, cálculo del coste de trabajos y procesos…
+    4. Gestión de la cadena de suministro: Control de inventario y compras, envío y distribución, devoluciones y cancelaciones, compras y gestión de proveedores…
+    5. Gestión de las operaciones: Previsiones, planificación de la producción, capacidad de fabricación, gestión de almacenes…
+    6. Reporting y analítica: Inisghts de clientes, informes de autoservicio, paneles interactivos, inteligencia integrada…
+
+Dynamics AX: Microsoft Dynamics AX es una de las herramientas tecnológicamente más avanzadas del mercado. Sus principales cualidades son las de su simplicidad de uso, flexibilidad y también su completa funcionalidad, algo que le permite adaptarse a las necesidades de todo tipo de negocios.
+El uso de Microsoft Dynamics AX permite conocer en todo momento los cambios y la evolución de la empresa, realizando una gestión global, disponiendo de un acceso rápido y actualizado a cualquier información relativa al negocio.
+Sus funcionalidades facilitan dirigir y gestionar una empresa, pyme o negocio de una forma fácil e intuitiva, lo que permite ahorrar en tiempo y, en consecuencia, ser más productivo.
+Importancia de Microsoft Dynamics AX para las grandes empresas: Se trata de una solución flexible, preparada para acompañar a las empresas en su crecimiento y consolidación el cualquier parte del mundo. En un mercado cambiante, es fundamental el uso de un software con foco en el cumplimiento de los principales objetivos de las grandes empresas.
+¿Por qué tendria que usar Microsoft Dynamics AX para mi empresa?
+    1. Facilita el trabajo de los usuarios gracias a un entorno web muy intuitivo, a unos procesos simples y a la sencillez con la que pueden compartir la información y colaborar.
+    2. La facilidad de integración y compartición de la información con otro tipo de softwares facilitan que la organización tome decisiones con rapidez y con un porcentaje muy alto de acierto.
+    3. Si el negocio se expande, facilita las operaciones en diferentes ubicaciones y países mediante la estandarización de procesos y ayudando a simplificar el cumplimiento de las normas gubernamentales.
+    4. Ahorra costes y permite dedicar más recursos económicos y humanos a actividades clave para el crecimiento del negocio.
+
+Si quieres contactar con DQS rellena el formulario https://www.dqsconsulting.com/contacto/ y estaremos encantados de ayudarte
