@@ -1,0 +1,126 @@
+El esquema siguiente muestra toda la informacion de la que disponemos de la empresa DQS. 
+
+Tecnologias con las DQS trabaja/tiene experiencia:
+    Dynamics 365 F&O:
+        Dynamics 365 Finance
+        Dynamics 365 Supply Chain Management
+        Dynamics 365 Commerce
+        Dynamics 365 Human Resources
+    Dynamics 365 Customer Engagement:
+        Dynamics 365 for Field Service
+        Dynamics 365 for Customer Service (CRM de Microsoft)
+        Dynamics 365 for Sales
+        Dynamics 365 Project Operations
+        Dynamics 365 Marketing
+    Dynamics 365 Business Central
+    Dynamics AX
+    Power Platofrm:
+        Inteligencia de datos con Power BI 
+        Power Apps
+        Power Automate
+        Power Virtual Agents
+    DQS/ I+D:
+        Microsoft Appsource
+        DQS/Tera:
+            DQS/Tera Cobros 
+            DQS/Tera Finanzas 
+            DQS/Tera ventas 
+    Business Analytics:
+        PowerBI para analizar tus datos
+        Azure Data Lake
+        Azure Data Factory
+        Azure Machine Learning
+        Azure Synapse Analyitics
+        Azure OpenAi
+        Azure Blob Storage
+        Dataiku
+        NEO4J
+    Infraestructuras:
+        Azure: la nube de Microsoft
+        Cloud
+        Hybrid Cloud:
+            Azure Ark
+        Seguridad
+        Colaboración:
+            Windows 365
+            Microsoft 365 (Office 365 + Windows)
+            Office 365
+        Monitorización
+    Soluciones:
+        Docuten (firma digital)
+        Neodoc (OCR)
+        Sabbatic (Gestión de gastos)
+        BankinPlay (integración de movimientos bancarios)
+
+Servicios ofrecidos for DQS:
+    Servicios gestionados ofrecidos por DQS:
+        El servicio de mantenimiento de sistemas incluye la detección de problemas informáticos y su solución, un mantenimineto preventivo para evitarlos y una actualización continua para garantizar eficiencia y seguridad.
+        Outsorcing aplicaciones para la externalización de servicios de consultoria, análisis y desarollo para que puedas dedicarte a tu negocio y dejarnos la tecnologia a nosotros.
+        El servicio de Seguridad Integral te brida la tranquilidad de saber que tus sistemas están seguros y que puedes centrarte en tus objectivos empresariales. El servicio ofrece analisis y evaluación de seguridad, protección de malware y virus, protección contra ataques y hacking, copias de seguridad y monitoreo y mantenimiento en tiempo real
+        Con el servicio de soporte N1/ N2 puedes focalizarte en la evolución de tu negocio y la mejora de las soluciones implementadas mientras DQS se encarga de la gestión, tratamiento y resolución de incidencias.
+    Servicios de Infraestructuras ofrecidos por DQS:
+        Auditoria: El servicio de auditoria que ofrece DQS te ayuda a mejorar la seguridad y el rendimiento de tus sistemas con analisis detallados de la estructura, evaluaciones de la seguridad, el rendimiento y la conformidad, un infome detallado con recomendaciones y soluciones y un soporte y asesoramiento para garantizar una solucion a largo plazo.
+        Hybrid cloud: Con los servicios de nube híbrida que ofrece DQS podras ahorrar costes apovechanfo al máximo las ventajas de la nube con flexibilidad y escalabilidad, control y seguridad para proteger tus datos y con un conocimiento por parte de DQS de Azure que sacaran el máximo provecho de las tecnologias Microsoft
+        Migración a la nube: Con los servicios de migración a la nube que ofrece DQS para negocios nuestros expertos migran los servidores on-premise de forma segura y eficiente al cloud.
+        Redes: Los servicios de rededes de DQS garantizan la eficiencia y seguridad con nuestros expertos en implantación, mantenimiento y solución de problemas para redes informáticas empresariales.
+    Servicios de Estrategia IT ofrecidos por DQS:
+        Planes de sistemas IT donde desde DQS analizamos tu situación actual, tus objetivos a largo plazo y tus necesidades tecnológicas para desarrollar un plan estratégico que se adapte perfectamente a ti.
+        Oficina de sistemas IT es una solución integral que ofrecemos a nustros clientes para ayudar a gestionar los proyectos de principio a fin.
+        Estrategia de implantación Modern Workplace ayudamos a las empresas a transformar su forma de trabajar y a mejorar la productividad y colaboracion de los empleados.
+    Servicios de Implantación ofrecidos por DQS:
+        Migración de versiones Dynamics y actualización de versiones eficiente y experta para sistemas AX/AXAPTA y NAV/NAVISION a la última tecnología en la nube de microsoft.
+        Desarollo Low Code incluye una solución personalizada con Power Platform con un analisis y evaluación pervio de tus necesidades, una perimer implementación y prueba de desarollo y soporte y mantenimiento después de la implementación. 
+        Cambio de partner Microsoft: Microsoft ha reconocido a DQS como partner por su conocimiento y experiencia en tecnologia Microsoft. Des de DQS podemos ayudarte a pasarte al partner lider en España.
+    Servicios de Data Management ofrecidos por DQS:
+        Desarollo de cuadros de mando: El cuadro de mando brinda a los directivos claridad en datos cruciales, facilitando decisiones informadas, detección de tendencias y prevención de problemas futuros, impulsando así el éxito y eficiencia empresarial
+        Data Security: La seguridad de datos es esencial para proteger activos valiosos de posibles amenazas externas. Ofrecemos un servicio de seguridad de datos integral que abarca encriptación, autenticación, gestión de acceso y más, garantizando la confidencialidad y la confianza de nuestros clientes.
+        Data Quality: Optimizamos la calidad de los datos para asegurar precisión, integridad y relevancia. Nuestro servicio incluye identificación y corrección de errores, eliminación de duplicados y estandarización, garantizando información confiable y valiosa para decisiones informadas.
+        Data Governance: Nuestro Data Governance brinda soluciones integrales para datos organizados, seguros y accesibles. Abordamos dificultades de búsqueda y seguridad, implementando políticas y procedimientos personalizados para una gestión eficaz. Destacamos por adaptarnos a tus objetivos y ofrecer apoyo completo, desde planificación hasta mantenimiento
+    Inteligencia Artificial: 
+        DQS posee un gran a arsenal de heramientas para proporcionar soluciones de inteligencia artificial como Azure data Factory, Azure Machine learning, Azure Blob Storage, Power BI, Dataiku and Neo4j
+        Posibles propuestas de valor y casos de uso de la inteligencia artificial para tu empresa:
+            Propuestas de valor intelgiencia artificial en ventas que hace DQS: Predecir el comportamiento de los clientes, Predicción éxito de un Lead (lead scoring), Predicción demanda, Personalizar la experiencia del cliente, Reducir Churn (abandono), Clasificación productos, Mejorar venta adicional y venta cruzada, Recomendador de precios, Recomendadores de producto, Automatizar Servicio al cliente – Reclamaciones, Best Practices Tiendas, Incrementar productividad vendedor y la detección de Fraude.
+    Business Apps
+    Formación
+
+Sectores con los que trabaja DQS:
+    DQS ha realizado con exito proyectos en empresas del sector de la Distribución mayorista y retail como Valmont, Promerca, RABAT y Meroil. Entre las soluciones implementadas en Dynamics 365 con exito a estas empresas encontramos:
+        Finance, Supply Chain Management, integracón de Magento Y almacén avanzado, logística y dsitribución en las empresas Valmont y Promerca
+        AX 4.0 Evolutivos y Soporte​, Solución TPV, SII, integración de Prestashop en la empresa RABAT
+        Soluciones de Trade, Ventas, Compras, Logistica, inventario y mucho mas para la empresa Meroil
+    DQS ha trabajado y realizado proyectos con éxito en el sector de la educación, como el caso de la escuela de negocios ESERP Business & Law School. En este caso el equipo de Customer Engagement de DQS ha conseguido un ahoro de costes po encima del 50%
+    DQS ha trabajado y llevado a cabo proyectos de implantación de Dynamics 365 en el sector de la Industria, implantando soluciones en empresas del sector como Promerca y Cromology con resultados como la creación de un almacén avanzado para mejorar la eficiencia de los procesos productivos y logisticos.
+    DQS ha trabajado y llevado a cabo procesos de implantación de Dynamics 365 en empresas del sector público como el ICC(International computing center) donde destacaron el uso de tecnologias PowerBI, SharePoint y Power Automate
+    DQS ha trabajado y llevado a cabo proyectos para empresas se Servicios como Valmont, Rabat, Promerca y Meroil
+
+Talento/Ofertas laborales que buscamos/ofrecemos en DQS:
+    Senior Consultant Microsoft Dynamics 365 FO
+    Senior Consultant Microsoft Dynamics 365 SCM
+    Senior MS Power BI
+    Senior Developer Microsoft Dynamics 365 FO
+    Senior Developer Microsoft Dynamics 365 Commerce
+    Developer .NET
+    Client Manager
+    Project Manager
+    IT Support Level 1-2
+    Si estas interesado en trabajar en DQS o quieres mas info rellena el formulario https://www.dqsconsulting.com/talento/
+
+Sobre la empresa DQS:
+    DQS tiene oficinas en:
+        Gran Via de les Corts Catalanes, 133, 7o A, 08014 Barcelona
+        C. Alonso Cano, 85, 1º D, 28003 Madrid
+        Av. de Casalduch, 27, Entresuelo 3, 12005 Castellón de la Plana, Castellón
+        C. de Menéndez y Pelayo, 5, 46010 Valencia
+    El team de DQS esta compuesto por 124 personas, 231 cerficicaciones, 9 carreras y 4 oficinas y Somos la mejor consultora especialista en Microsoft segun el Ranking 2022 y 2023 de Best Workplaces España
+    DQS esta especializada en la implantación de tecnologias Microsoft y trabajamos con los partners:
+        Microsoft: Software y hardware para permitir la transformación digital
+        Docuten: Digitalización administrativa
+        Neodoc: Plataforma cloud de gestión de contenido empresarial y gestión documental
+        Sabbatic: Proveedor de servicios SAAS
+        Solarwinds: Proveedor de software gestión IT
+        Citrix: Soluciones asociadas a la nube
+        Acronis y Trend Micro: Ciberprotección
+        Adobe: Desarrollo de software
+        HP, HPE, Aruba: Transformación de negocios
+    DQS participa activamente con la IAMCP, la asociación internacional de partners de Microsoft España. Para más información https://www.dqsconsulting.com/dqsconsulting/iamcp/
+    Si quieres contactar con DQS rellena el formulario en el enlace: https://www.dqsconsulting.com/contacto/?desde=/dqsconsulting/
