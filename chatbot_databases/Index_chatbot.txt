@@ -1,7 +1,5 @@
 El esquema siguiente muestra toda la informacion de la que disponemos de la empresa DQS. 
 
-
-
 Tecnologias con las DQS trabaja/tiene experiencia:
     Dynamics 365 F&O:
         Dynamics 365 Finance
@@ -16,6 +14,7 @@ Tecnologias con las DQS trabaja/tiene experiencia:
         Dynamics 365 Marketing
     Dynamics 365 Business Central
     Dynamics AX
+
     Power Platofrm:
         Inteligencia de datos con Power BI 
         Power Apps
@@ -144,3 +143,5 @@ Sobre la empresa DQS:
         HP, HPE, Aruba: Transformación de negocios
     DQS participa activamente con la IAMCP, la asociación internacional de partners de Microsoft España. Para más información https://www.dqsconsulting.com/dqsconsulting/iamcp/
     Si quieres contactar con DQS rellena el formulario en el enlace: https://www.dqsconsulting.com/contacto/?desde=/dqsconsulting/
+
+    Para informacón mas detallada sobre los paquetes Dynamics 365 selecciona la opción "Estoy interesado en el paquete de aplicaciones Dynamics 365"
