@@ -1,6 +1,5 @@
 import os
 import sys
-import constants
 import streamlit as st
 from PIL import Image
 
