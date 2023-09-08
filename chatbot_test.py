@@ -2,6 +2,7 @@ import os
 import sys
 import streamlit as st
 from PIL import Image
+from utils.functions import is_negative_response
 
 from langchain.document_loaders import TextLoader
 from langchain.indexes import VectorstoreIndexCreator
@@ -10,6 +11,7 @@ from langchain.chat_models import ChatOpenAI
 # llm = OpenAI(openai_api_key="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")
 # Personal: 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
 # Connecthink: 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
+
 
 os.environ["OPENAI_API_KEY"] = st.secrets["OPENAI_API_KEY"]
 
@@ -39,43 +41,30 @@ mode, text_input_label = modes_dict[mode_radio]
 
 with st.form(key="text_input"):
     query = st.text_input(f"👋 Hola! Soy el Chat-Bot de DQS. {text_input_label}")
+    
+    extense = st.checkbox("Genera una respuesta extensa (Comporta tiempos de carga ligeramente superiores)")
+    
     #query = sys.argv[1]
 
     submit_button_clicked = st.form_submit_button(label="Submit")
 
 if submit_button_clicked:
+    with st.spinner("Preparando la mejor respuesta para tu pregunta..."):
 
-    if mode == "general":
-        loader = TextLoader("chatbot_databases/Index_chatbot.txt")
+        loader = TextLoader(f"chatbot_databases/{mode}_data.txt")
         index = VectorstoreIndexCreator().from_loaders([loader])
 
-        response = index.query(query)
+        if extense:
+            query = query + " Necessito que me des una respuesta extensa."
 
-        if response == " No sé.":
-        # Posible negative responses:
-        #   "No dispongo de la información para responder a tu pregunta"
-        #   "No se sabe."
-        #   "No sabemos ..."
-        #    "No lo sé."
-        #    Si gpt responde algo que tenga relación con la palabra "esquema" acostumbra a ser una respuesta negativa
+        # query = "Contesta la siguiente petición solo si estas al 100% seguro de que es cierta. Si no estas seguro contesta que no lo sabes:" + query
 
+        response = index.query(query, llm=ChatOpenAI())
+
+        if is_negative_response(response):
             st.warning("No dispongo de la información para responder a tu pregunta. Para una informacion más detallada visita la web https://www.dqsconsulting.com/dqsconsulting/ o contacta con nosotros rellenando el formulario https://www.dqsconsulting.com/contacto/")
         else:
             st.info(response)
-
-    if mode == "dynamics":
-        loader = TextLoader("chatbot_databases/dynamics_data.txt")
-        index = VectorstoreIndexCreator().from_loaders([loader])
-
-        response = index.query(query)
-
-        if response == " No sé.":
-            st.warning("No dispongo de la información para responder a tu pregunta. Para una informacion más detallada visita la web https://www.dqsconsulting.com/dqsconsulting/ o contacta con nosotros rellenando el formulario https://www.dqsconsulting.com/contacto/")
-        else:
-            st.info(response)
-
-    if mode == "IA":
-        st.info("El chatbot entrenado con información sobre inteligencia artificial aún no esta disponible")
 
 with st.columns(2)[1]:
     st.write("Powered by:")
