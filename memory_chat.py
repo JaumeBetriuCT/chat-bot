@@ -7,19 +7,38 @@ from utils.functions import is_negative_response
 from langchain.document_loaders import TextLoader
 from langchain.indexes import VectorstoreIndexCreator
 from langchain.chat_models import ChatOpenAI
+from langchain.memory import ConversationBufferMemory
+from langchain.chains import ConversationalRetrievalChain
+
+from htmlTemplates import css, bot_template, user_template
 
 # llm = OpenAI(openai_api_key="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")
 # Personal: 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
 # Connecthink: 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
-dqs_logo = Image.open('images/dqs_logo.png')
-gpt_logo = Image.open("images/Chat_gpt_logo.png")
-icon = Image.open("images/dqs_icon.jpeg")
 
-st.set_page_config(page_icon=icon)
+def get_conversation_chain(vectorstore):
+    llm = ChatOpenAI()
+    memory = ConversationBufferMemory(memory_key="chat_history", return_messages=True)
+    conversation_chain = ConversationalRetrievalChain.from_llm(
+        llm = llm,
+        retriever=vectorstore,
+        memory=memory
+    )
+
+    return conversation_chain
+
+
+st.write(css, unsafe_allow_html=True)
+
+if "conversation" not in st.session_state:
+    st.session_state.conversation = None
 
 os.environ["OPENAI_API_KEY"] = st.secrets["OPENAI_API_KEY"]
 
 st.title("DQS chatbot application")
+
+dqs_logo = Image.open('images/dqs_logo.png')
+gpt_logo = Image.open("images/Chat_gpt_logo.png")
 
 st.image(dqs_logo)
 
@@ -55,19 +74,25 @@ if submit_button_clicked:
         loader = TextLoader(f"chatbot_databases/{mode}_data.txt")
         index = VectorstoreIndexCreator().from_loaders([loader])
 
-        if extense:
-            query = query + " Necessito que me des una respuesta extensa."
+        st.session_state.conversation = get_conversation_chain(index)
 
-        # query = "Contesta la siguiente petición solo si estas al 100% seguro de que es cierta. Si no estas seguro contesta que no lo sabes:" + query
+        st.write(user_template.replace("{{MSG}}", "hello robot"), unsafe_allow_html=True)
+        st.write(bot_template.replace("{{MSG}}", "hello human"), unsafe_allow_html=True)
 
-        response = index.query(query, llm=ChatOpenAI())
 
-        if is_negative_response(response):
-            st.warning("No dispongo de la información para responder a tu pregunta. Para una informacion más detallada visita la web https://www.dqsconsulting.com/dqsconsulting/ o contacta con nosotros rellenando el formulario https://www.dqsconsulting.com/contacto/")
-        else:
-            st.info(response)
+        
+#         if extense:
+#             query = query + " Necessito que me des una respuesta extensa."
 
-with st.columns(2)[1]:
-    st.write("Powered by:")
-    st.image(gpt_logo, width=250)
+#         # query = "Contesta la siguiente petición solo si estas al 100% seguro de que es cierta. Si no estas seguro contesta que no lo sabes:" + query
 
+#         response = index.query(query, llm=ChatOpenAI())
+
+#         if is_negative_response(response):
+#             st.warning("No dispongo de la información para responder a tu pregunta. Para una informacion más detallada visita la web https://www.dqsconsulting.com/dqsconsulting/ o contacta con nosotros rellenando el formulario https://www.dqsconsulting.com/contacto/")
+#         else:
+#             st.info(response)
+
+# with st.columns(2)[1]:
+#     st.write("Powered by:")
+#     st.image(gpt_logo, width=250)
