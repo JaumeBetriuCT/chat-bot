@@ -11,6 +11,12 @@ from langchain.chat_models import ChatOpenAI
 # llm = OpenAI(openai_api_key="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")
 # Personal: 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
 # Connecthink: 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
+
+# Streamlit cloud has some problems with the version of sqlite3. So we are adding to the requirements the package pysqlite3-binary and using them:
+__import__('pysqlite3')
+import sys
+sys.modules['sqlite3'] = sys.modules.pop('pysqlite3')
+
 dqs_logo = Image.open('images/dqs_logo.png')
 gpt_logo = Image.open("images/Chat_gpt_logo.png")
 icon = Image.open("images/dqs_icon.jpeg")

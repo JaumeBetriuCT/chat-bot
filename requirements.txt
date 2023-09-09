@@ -1,7 +1,7 @@
-python == 3.11
 streamlit
 Pillow
 langchain
 openai
 chromadb
 tiktoken
+pysqlite3-binary
