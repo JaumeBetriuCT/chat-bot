@@ -44,7 +44,7 @@ dqs_logo = Image.open('images/dqs_logo.png')
 gpt_logo = Image.open("images/Chat_gpt_logo.png")
 icon = Image.open("images/dqs_icon.jpeg")
 
-st.set_page_config(page_icon=icon)
+st.set_page_config(page_icon=icon, page_title="DQS chatbot")
 
 # Define the chat history:
 if "chat_history" not in st.session_state:
