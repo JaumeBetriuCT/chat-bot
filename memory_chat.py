@@ -40,6 +40,12 @@ def show_chat_history() -> None:
             with st.chat_message("assistant"):
                 st.write(question_answer[1])
 
+dqs_logo = Image.open('images/dqs_logo.png')
+gpt_logo = Image.open("images/Chat_gpt_logo.png")
+icon = Image.open("images/dqs_icon.jpeg")
+
+st.set_page_config(page_icon=icon)
+
 # Define the chat history:
 if "chat_history" not in st.session_state:
     st.session_state.chat_history = []
@@ -53,9 +59,6 @@ else:
 os.environ["OPENAI_API_KEY"] = st.secrets["OPENAI_API_KEY"]
 
 st.title("DQS chatbot application")
-
-dqs_logo = Image.open('images/dqs_logo.png')
-gpt_logo = Image.open("images/Chat_gpt_logo.png")
 
 st.image(dqs_logo)
 
