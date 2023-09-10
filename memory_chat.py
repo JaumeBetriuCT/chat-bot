@@ -96,7 +96,7 @@ if query:
         with st.chat_message("user"):
             st.write(result["question"])
         # Show the answer:
-        with st.chat_message("assistant"):
+        with st.chat_message("assistant", avatar=icon):
             st.write(result["answer"])
         
         # Add the queries to the chat_history
