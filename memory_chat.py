@@ -37,7 +37,7 @@ def show_chat_history() -> None:
         for question_answer in st.session_state.chat_history:
             with st.chat_message("user"):
                 st.write(question_answer[0])
-            with st.chat_message("assistant"):
+            with st.chat_message("assistant", avatar=icon):
                 st.write(question_answer[1])
 
 dqs_logo = Image.open('images/dqs_logo.png')
