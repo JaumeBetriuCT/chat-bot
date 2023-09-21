@@ -107,4 +107,4 @@ with st.columns(2)[1]:
     st.image(gpt_logo, width=250)
 
 # Noticies: https://teams.microsoft.com/l/message/19:meeting_NWQ1ODdlMGEtZDE2MS00NzJhLTg0NzYtYmY1NmNlZjQxZmJj@thread.v2/1694510592323?context=%7B%22contextType%22%3A%22chat%22%7D
-# https://www.dqsconsulting.com/noticias/categoria/dqsteam/
+# https://www.dqsconsulting.com/noticias/categoria/dqsteam/k
