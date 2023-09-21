@@ -51,7 +51,7 @@ with st.form(key="text_input"):
     
     extense = st.checkbox("Genera una respuesta extensa (Comporta tiempos de carga ligeramente superiores)")
     
-    #query = sys.argv[1]
+    #query = sys.argv[1] ....
 
     submit_button_clicked = st.form_submit_button(label="Submit")
 
